@@ -1,4 +1,0 @@
-Sitemap: https://sinkingstone.com/sitemapindex.xml
-
-User-Agent: *
-Host: sinkingstone.com

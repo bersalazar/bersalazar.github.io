@@ -1,0 +1,6 @@
+.*
+!.gitignore
+
+cache/
+output/
+__pycache__
