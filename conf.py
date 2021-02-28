@@ -1120,8 +1120,8 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # before </head>
 # (translatable)
 EXTRA_HEAD_DATA = """
-<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101293946);</script>
-<script async src='//static.getclicky.com/js'></script>
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101303359);</script>
+<script async src="//static.getclicky.com/js"></script>
 """
 
 # Google Analytics or whatever else you use. Added to the bottom of <body>
