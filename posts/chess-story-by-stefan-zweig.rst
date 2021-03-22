@@ -3,7 +3,7 @@
 .. date: 2019-01-30 
 .. category: reviews
 
-.. figure:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924796l/59151.jpg
+..figure:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924796l/59151.jpg
    :class: thumbnail
    :height: 500
    :width: 330

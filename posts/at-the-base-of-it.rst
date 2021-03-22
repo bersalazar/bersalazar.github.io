@@ -12,7 +12,7 @@ It comes from time to time. Not always there, but not shy of often stopping by.
 
 Last time it came after watching the news. A murdered celebrity. A mediatic explosion.
 
-I knew her name, but wasn't paying much attention these days. I just knew she had fame.
+I knew her name, but wasn't paying much attention these days. I only knew she had fame.
 
 An innocent ride of a long, bumpy road. A vicious habit of meeting subsistence by harming others.
 
@@ -30,7 +30,7 @@ How much we have lost by riding on the back of tyrants?
 
 How little have we been taught to value life?
 
-She said goodbye with a few kisses and a sunset background. 
+She said goodbye with a some kisses and a sunset background.
 
 And with that, the acid ball became whole. The burn had moved around like a metastasized tumor.
 

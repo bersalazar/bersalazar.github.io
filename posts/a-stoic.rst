@@ -6,15 +6,15 @@
 
 Banishes negative emotions.
 
-Thinks about bad things that could happen.
+Thinks of bad situations that could occur.
 
 Enjoys pleasures but is not enslaved by them.
 
-Distinguishes between things they can and can’t control.
+Distinguishes between situations they can and can’t control.
 
-Enjoys the pleasurable things life has to offer without clinging to them.
+Enjoys the pleasures life has to offer without clinging to them.
 
-Interrupts their enjoyment to contemplate the loss of whatever it is we are enjoying.
+Interrupts their enjoyment to contemplate the loss of whatever we are enjoying.
 
 Robs present ills of their power by perceiving them beforehand.
 
@@ -24,7 +24,7 @@ Enjoys "the good things" but is prepared to give them up.
 
 Engages in negative and projective visualization.
 
-Appreciates the insignificance of bad things that happen to us.
+Appreciates the insignificance of bad occurrences.
 
 Strives to tranquil their mind with less comfort and fewer quick pleasures.
 
