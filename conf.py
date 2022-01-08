@@ -21,7 +21,7 @@ BLOG_TITLE = "sinkingstone.com"  # (translatable)
 SITE_URL = "https://sinkingstone.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "bernardo@salazr.co"
+BLOG_EMAIL = "bersalazar@gmail.com"
 BLOG_DESCRIPTION = ""  # (translatable)
 DEFAULT_LANG = "en"
 
@@ -42,7 +42,7 @@ NAVIGATION_LINKS = {
     ),
 }
 
-THEME = "kiss"
+THEME = "bootblog4"
 
 THEME_COLOR = '#5670d4'
 
@@ -182,16 +182,16 @@ DATE_FORMAT = 'yyyy-MM-dd '
 COMPILERS = {
     "rest": ['.rst', '.txt'],
     "markdown": ['.md', '.mdown', '.markdown'],
-    "textile": ['.textile'],
-    "txt2tags": ['.t2t'],
-    "bbcode": ['.bb'],
-    "wiki": ['.wiki'],
-    "ipynb": ['.ipynb'],
     "html": ['.html', '.htm'],
-    # PHP files are rendered the usual way (i.e. with the full templates).
-    # The resulting files have .php extensions, making it possible to run
-    # them without reconfiguring your server to recognize them.
-    "php": ['.php'],
+    # "textile": ['.textile'],
+    # "txt2tags": ['.t2t'],
+    # "bbcode": ['.bb'],
+    # "wiki": ['.wiki'],
+    # "ipynb": ['.ipynb'],
+    #  PHP files are rendered the usual way (i.e. with the full templates).
+    #  The resulting files have .php extensions, making it possible to run
+    #  them without reconfiguring your server to recognize them.
+    # "php": ['.php'],
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
@@ -360,8 +360,8 @@ CATEGORY_DESCRIPTIONS = {
 # Set special titles for category pages. The default is "Posts about CATEGORY".
 CATEGORY_TITLES = {
    DEFAULT_LANG: {
-       "reviews": "Reviews",
-       "blog": "Blog Archive"
+       "blog": "Blog Archive",
+       "reviews": "Reviews"
    },
 }
 
