@@ -1,5 +1,5 @@
-.. title: The voices
-.. slug: the-voices
+.. title: Voices
+.. slug: voices
 .. date: 2022-01-05 08:32:15 UTC+01:00
 .. category: blog
 
@@ -9,17 +9,17 @@ Lords of our skull-sized kingdom.
 
 There are many types of freedom.
 
-Ones focus on winning, achieving and displaying.
+Ones focus on winning, achieving and displaying. 
 
-Others focus on us being the center of the universe.
+Others focus on us being the center of the universe. 
 
 One where there's no experience, where we're not the protagonist.
 
-The truly important kind is one that involves attention.
+The truly important kind is the one which involves attention. 
 
 Awareness, discipline, caring for others. Thinking.
 
-Thinking demands the ability to control focus.
+Thinking demands the ability to control focus. 
 
 The ability to learn. The ability to master thoughts.
 
@@ -41,6 +41,4 @@ They're fish oblivious to the water they're swimming in.
 
 ---
 
-A reflection inspired from the words of David Foster Wallace in his 'This is water' speech.
-
-His life and death are an example of the brilliance of awareness and the strength of the voices.
+David Foster Wallace's life and death are an example of the brilliance of awareness and the strength of the voices.
