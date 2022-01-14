@@ -2,13 +2,14 @@
 .. slug: the-crux
 .. date: 2021-03-22 08:43:23 UTC+01:00
 .. category: reviews
+.. status: draft
 
 .. figure:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577603199l/50063522._SY475_.jpg
    :class: thumbnail
    :height: 500
    :width: 330
    :scale: 50%
-   
+
 I've followed Oswaldo's YouTube channel since I've started climbing. It's not straightforward to realize his philosophy and experiences, so this book was a nice surprise.
 
 I found so much to relate to. Not only on his stories related to climbing, but from his relationships with immigration, death, mindfulness and failures.

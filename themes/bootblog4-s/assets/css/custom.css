@@ -1,0 +1,23 @@
+#blog-title {
+    color: #43474c;
+    font-size: 2.4rem;
+    font-weight: 350;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"
+}
+
+.u-url {
+    color: #734a53;
+    font-size: 1.8rem;
+    font-weight: 350;
+    font-family: BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"
+}
+
+a {
+    color: #734a53;
+    font-weight: 350;
+}
+
+time {
+    color: #734a53;
+    font-weight: 350;
+}

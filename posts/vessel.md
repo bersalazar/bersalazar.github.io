@@ -1,4 +1,4 @@
-.. title: Vessel
+.. title: vessel
 .. slug: vessel
 .. date: 2021-07-04 08:37:29 UTC+02:00
 .. category: blog
@@ -23,7 +23,7 @@ Each with its unique cadence, flavour, texture.
 
 Each entering and exiting the symphony at a moment's request.
 
----
+——
 
 Derek Sivers provides 27 conflicting answers put in gentile, concise words but are packed with philosophy, consciousness and meaning. 
 

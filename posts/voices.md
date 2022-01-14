@@ -1,5 +1,5 @@
-.. title: Voices
-.. slug: voices
+.. title: skull-sized kingdom
+.. slug: skull-sized kingdom
 .. date: 2022-01-05 08:32:15 UTC+01:00
 .. category: blog
 
@@ -39,6 +39,6 @@ They're blind to what's present, to what exists now.
 
 They're fish oblivious to the water they're swimming in.
 
----
+——
 
 David Foster Wallace's life and death are an example of the brilliance of awareness and the strength of the voices.

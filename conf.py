@@ -16,8 +16,8 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "bernardo"   # (translatable)
-BLOG_TITLE = "sinkingstone.com"  # (translatable)
+BLOG_AUTHOR = "sinkingstone"   # (translatable)
+BLOG_TITLE = "sinking stone"  # (translatable)
 SITE_URL = "https://sinkingstone.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -33,18 +33,16 @@ DEFAULT_LANG = "en"
 
 TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 INDEX_READ_MORE_LINK = '<a class="button is-link" href="{link}" style="height:28px"> {read_more} <span class="icon is-small"> <i class="fa fa-angle-double-right"></i></span></a>'
-USE_BUNDLES = True
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/index.html", "Home"),
-        ("/categories/cat_reviews/", "Reviews"),
-        ("/categories/cat_blog/", "Blog")
+        ("/index.html", "home"),
+        ("/categories/cat_blog/", "archive")
     ),
 }
 
-THEME = "bootblog4"
-
+THEME = "bootblog4-s"
 THEME_COLOR = '#5670d4'
+USE_BUNDLES = False
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Examples below are for bootblog4.
@@ -65,7 +63,8 @@ THEME_CONFIG = {
         # Strip HTML from featured post text.
         'featured_strip_html': False,
         # Contents of the sidebar, If empty, the sidebar is not displayed.
-        'sidebar': ''
+        'sidebar': '',
+        'u-url.a': '#860f0f'
     }
 }
 
