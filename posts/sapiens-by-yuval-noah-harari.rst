@@ -8,15 +8,13 @@
    :height: 500
    :width: 330
    :scale: 50%
-   
-Not only an excellent read, but a complete experience. 
 
-While reading about our origins and reasons behind our behaviours as individuals and as societies, I couldn’t help constantly thinking to myself: "well, that makes total sense."
+Not only an excellent read, but a complete experience.
 
-We’re hard-wired by our collective knowledge, slaves to our self-created imagined orders, thinking and believing in the rules the human species has set out across generations past. 
+While reading about our origins and reasons behind our behaviours as individuals and as societies, I couldn’t help constantly thinking to myself: "well, that makes total sense".
 
-They have come organically as a consequence of progress, technology and our need for expansion. 
+We’re hard-wired by our collective knowledge, slaves to our self-created imagined orders, thinking and believing in the rules the human species has set out across generations past.
 
-This book shows the biological and completely objective reasons behind culture, ideology, technology, happiness, decisions, and makes a very strong case of what our future might look like. 
+They have come organically as a consequence of progress, technology and our need for expansion.
 
-It’s worth every chapter and I’m looking forward to reading Homo Deus.
+This book shows the biological and completely objective reasons behind culture, ideology, technology, happiness, decisions, and makes a strong case of what our future might look like.

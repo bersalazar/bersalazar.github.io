@@ -8,9 +8,9 @@
    :height: 500
    :width: 330
    :scale: 50%
-   
+
 I found out about this book thanks to Derek Sivers' blog. It's his highest rated book, and was really interested in it after reading its premise.
 
-It's in a short story format, each of them with a version explaining what happens after we die. They're very creative and packed with analogies to philosophical thought or existentialist proposals that don't necessarily change or get resolved after we die. 
+It's in a short story format, each of them with a version explaining what happens after we die. They're unusual, creative and packed with analogies to philosophical thought or existentialist proposals that don't necessarily change or get resolved after we die.
 
 God is often humanised, heaven is often treated as a mundane society filled with similar vices that we endure during life and the afterlife is sometimes a multi-dimensional, uncontrollable and even insignificant existence.

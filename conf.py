@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "sinkingstone"   # (translatable)
+BLOG_AUTHOR = "bernardo"   # (translatable)
 BLOG_TITLE = "sinking stone"  # (translatable)
 SITE_URL = "https://sinkingstone.com/"
 # If not set, defaults to SITE_URL
@@ -36,7 +36,8 @@ INDEX_READ_MORE_LINK = '<a class="button is-link" href="{link}" style="height:28
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "home"),
-        ("/categories/cat_blog/", "archive")
+        ("/categories/cat_blog/", "archive"),
+        ("/categories/cat_reviews/", "notes")
     ),
 }
 
@@ -348,7 +349,6 @@ CATEGORY_DESCRIPTIONS = {
        "reviews": """
        <br>
        <p>Thoughts on books or articles I've read which have left a meaningful impact on me.</p>
-       <p>Book reviews are based on ones posted on <a href='https://goodreads.com/bersalazar'>Goodreads</a>.</p>
        </p>
        <br>
        """,
@@ -359,8 +359,8 @@ CATEGORY_DESCRIPTIONS = {
 # Set special titles for category pages. The default is "Posts about CATEGORY".
 CATEGORY_TITLES = {
    DEFAULT_LANG: {
-       "blog": "Blog Archive",
-       "reviews": "Reviews"
+       "blog": "archive",
+       "reviews": "notes"
    },
 }
 
@@ -846,7 +846,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-#CONTENT_FOOTER = ''
+# CONTENT_FOOTER = ''
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
