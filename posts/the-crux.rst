@@ -1,29 +1,13 @@
-.. title: efficient process, fulfilling goals
-.. slug: epfg
+.. title: The Crux - by Oswaldo Zuniga
+.. slug: the-crux
 .. date: 2021-03-22 08:43:23 UTC+01:00
-.. category: blog
+.. category: reviews
 
-The rock is emotionless.
-
-It's out there, existing. It doesn't change because of our feelings or desires.
-
-Like the floor beneath the dancer, a blacksmith's hammer or thermodynamics laws.
-
-It won't change its shape or respond to complaints. It won't flinch.
-
-The changing entities are within our bodies: fingers, shoulders, tendons.
-
-With enough repetitions, they become stronger.
-
-Mixed with patience, goals are achievable. That's a good compromise but it's not the best one.
-
-The truly fulfilling skill comes as a realization at a given point in the path of habit.
-
-As more of a "Oh ok, I can do this" rather than "Hooray, I just did this."
-
-Fulfilling goals are a second-hand effect of simply loving an acquired process.
-
-——
+.. figure:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577603199l/50063522._SY475_.jpg
+   :class: thumbnail
+   :height: 500
+   :width: 330
+   :scale: 50%
 
 When starting out learning a new skill, referencing professionals and people at the top of the game isn't the most efficient way to learn.
 

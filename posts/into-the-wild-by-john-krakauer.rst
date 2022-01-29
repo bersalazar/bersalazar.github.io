@@ -8,7 +8,7 @@
    :height: 500
    :width: 330
    :scale: 50%
-   
+
 I’m in the neutral camp when having an opinion about this story and its tragic end. 
 
 I do believe Chris was egotistic and reckless. But I also agree there’s much to learn from his philosophy and his search for truth. 

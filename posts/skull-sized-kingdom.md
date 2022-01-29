@@ -38,7 +38,3 @@ Voices that wander around in the impressions that others have of us.
 They're blind to what's present, to what exists now.
 
 They're fish oblivious to the water they're swimming in.
-
-——
-
-David Foster Wallace's life and death are an example of the brilliance of awareness and the strength of the voices.

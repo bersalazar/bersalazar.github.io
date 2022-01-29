@@ -1,4 +1,4 @@
-.. title: At the base of it
+.. title: at the base of it
 .. slug: at-the-base-of-it
 .. date: 2020-07-12
 .. author: bernardo
