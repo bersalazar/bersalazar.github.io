@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "bernardo"   # (translatable)
+BLOG_AUTHOR = "sinking stone"   # (translatable)
 BLOG_TITLE = "sinking stone"  # (translatable)
 SITE_URL = "https://sinkingstone.com/"
 # If not set, defaults to SITE_URL
@@ -36,8 +36,9 @@ INDEX_READ_MORE_LINK = '<a class="button is-link" href="{link}" style="height:28
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "home"),
-        ("/categories/cat_blog/", "archive"),
+        ("/categories/cat_blog/", "posts"),
         ("/categories/cat_reviews/", "notes")
+        ("/pages/about/", "about")
     ),
 }
 
