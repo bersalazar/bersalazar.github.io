@@ -1,4 +1,4 @@
-.. title: the vessel
+.. title: Vessel
 .. slug: vessel
 .. date: 2021-07-04 08:37:29 UTC+02:00
 .. category: blog

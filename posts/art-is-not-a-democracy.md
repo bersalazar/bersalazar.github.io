@@ -1,4 +1,4 @@
-.. title: art is not a democracy
+.. title: Art is not a democracy
 .. slug: art-is-not-a-democracy
 .. date: 2020-10-16 07:46:18 UTC+02:00
 .. category: blog

@@ -37,8 +37,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "home"),
         ("/categories/cat_blog/", "posts"),
-        ("/categories/cat_reviews/", "notes")
-        ("/pages/about/", "about")
+        ("/categories/cat_reviews/", "notes"),
+        # ("/pages/about/", "about")
     ),
 }
 
@@ -349,7 +349,7 @@ CATEGORY_DESCRIPTIONS = {
    DEFAULT_LANG: {
        "reviews": """
        <br>
-       <p>Thoughts on books or articles I've read which have left a meaningful impact on me.</p>
+       <p>Thoughts on books or articles I've read which have left a meaningful impact.</p>
        </p>
        <br>
        """,

@@ -1,4 +1,4 @@
-.. title: at one end of the spectrum
+.. title: At one end of the spectrum
 .. slug: spectrum
 .. date: 2020-10-07 08:15:10 UTC+02:00
 .. category: blog

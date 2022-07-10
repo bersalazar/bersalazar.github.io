@@ -1,4 +1,4 @@
-.. title: skull-sized kingdom
+.. title: Skull-sized kingdom
 .. slug: skull-sized kingdom
 .. date: 2022-01-05 08:32:15 UTC+01:00
 .. category: blog
@@ -9,17 +9,17 @@ Lords of our skull-sized kingdom.
 
 There are many types of freedom.
 
-Ones focus on winning, achieving and displaying. 
+Ones focus on winning, achieving and displaying.
 
-Others focus on us being the center of the universe. 
+Others focus on us being the center of the universe.
 
 One where there's no experience, where we're not the protagonist.
 
-The truly important kind is the one which involves attention. 
+The truly important kind is the one which involves attention.
 
 Awareness, discipline, caring for others. Thinking.
 
-Thinking demands the ability to control focus. 
+Thinking demands the ability to control focus.
 
 The ability to learn. The ability to master thoughts.
 

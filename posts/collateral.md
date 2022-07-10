@@ -1,4 +1,4 @@
-.. title: collateral
+.. title: Collateral
 .. slug: collateral
 .. date: 2021-03-22 08:43:23 UTC+01:00
 .. category: blog
@@ -19,7 +19,7 @@ Mixed with patience, goals are achievable. That's a good compromise but it's not
 
 The truly fulfilling skill comes as a realization at a given point in the path of habit.
 
-As more of a "Oh ok, I can do this" rather than "Hooray, I just did this."
+As more of a "Oh OK, I can do this" rather than "Hooray, I just did this."
 
 The best kind of gratification is a realization in the middle of a recurring process.
 

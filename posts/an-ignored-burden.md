@@ -1,15 +1,15 @@
-.. title: an ignored burden
+.. title: An ignored burden
 .. slug: an-ignored-burden
 .. date: 2022-01-28 16:00:35 UTC+01:00
 .. category: blog
 
-In the shower, thoughts dwindled in the unsaid.
+Thoughts dwindled in the unsaid.
 
-On things I could enable that would help coping with the fight. Exotic places, experiences.
+On things I could enable that would help coping with the fight: exotic places, experiences.
 
-I thought of the futility of cell-killing chemicals. 
+I thought of the futility of cell-killing chemicals.
 
-The ones that repair the broken bridge ahead with wood from the one after.
+Those that repair the broken bridge ahead with wood from next one.
 
 I thought of depleting emergency funds. Of justified lies for the promise of expense coverage.
 

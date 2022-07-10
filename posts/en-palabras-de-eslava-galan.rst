@@ -1,4 +1,4 @@
-.. title: en palabras de Eslava Galán
+.. title: En palabras de Eslava Galán
 .. slug: en-palabras-de-eslava-galan
 .. date: 2020-10-03 10:06:12 UTC+02:00
 .. category: blog

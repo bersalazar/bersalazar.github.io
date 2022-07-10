@@ -1,12 +1,11 @@
-.. title: at the base of it
+.. title: At the base of it
 .. slug: at-the-base-of-it
 .. date: 2020-07-12
-.. author: bernardo
 .. category: blog
 
 .. image:: /images/sunset.png
 
-A feeling of burn on exhalation. A long gaze into the infinite. 
+A feeling of burn on exhalation. A long gaze into the infinite.
 
 It comes from time to time. Not always there, but not shy of often stopping by.
 

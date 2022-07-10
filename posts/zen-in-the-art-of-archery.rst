@@ -1,7 +1,6 @@
 .. title: Zen In The Art Of Archery - by Eugen Herrigel
 .. slug: zen-in-the-art-of-archery
 .. date: 2020-02-22
-.. author: bernardo
 .. category: reviews
 
 .. figure:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385118414l/103758.jpg
