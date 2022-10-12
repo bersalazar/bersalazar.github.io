@@ -1,4 +1,4 @@
-.. title: Saramago
+.. title: En palabras de Saramago
 .. slug: saramago
 .. date: 2022-10-10 09:29:14 UTC+02:00
 .. category: blog
