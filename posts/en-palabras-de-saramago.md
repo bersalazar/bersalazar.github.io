@@ -22,7 +22,7 @@ Si se ignoran los conectores y las disculpas, lo que el autor quiere expresar es
 
 ¿Está justificada la verbosidad del autor? ¿es justificada exponer esta reflexión a trompicones?
 George Orwell es famoso por promover la practicidad del texto escrito. Por su arte de expresar
-una idea compleja con fraseo eficient y reduciendo el uso de palabras inusuales. 
+una idea compleja con fraseo eficiente y reduciendo el uso de palabras inusuales. 
 Esto podría interpretarse como un uso perezoso de la lengua. No es tan simple.
 
 Cuando un sendero es mantenido, ¿es común permitir que crezca la maleza que podría obstaculizarnos? 

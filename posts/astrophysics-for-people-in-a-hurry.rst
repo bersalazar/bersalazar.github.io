@@ -1,7 +1,6 @@
 .. title: Astrophysics For People In A Hurry - by Neil deGrasse Tyson
 .. slug: astrophysics-for-people-in-a-hurry
 .. date: 2018-01-01
-.. author: bernardo
 .. category: reviews
    
 .. figure:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562761669l/32191710._SY475_.jpg
