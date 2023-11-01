@@ -14,7 +14,7 @@ Quizá por falta de relatos o gracias a la globalización, últimamente he notad
 Tomás es mi gran amigo de muchos años.
 Lector voraz y fanático de la historia, en especial si tiende a la geopolítica.
 Hablar con él es abrir una enciclopedia de hechos históricos, que sólo pueden llegar a su memoria cuando algo realmente nos apasiona.
-De esas pasiones que son únicas de cada quién y que a veces pasan desapercibidas.
+De esas pasiones que son únicas de cada quien y que a veces pasan desapercibidas.
 
 Desde que lo conozco, siempre ha tenido fascinación por la cultura alemana y, desde siempre, me ha hablado de su ex-jefe en Caracas, un ex-miembro de las Juventudes Hitlerianas durante la guerra.
 
@@ -58,7 +58,7 @@ Motivando a sus compañeros de rango, a sus subordinados, exigiendo liderazgo y 
 Si el escenario no fuese el de rangos militares, sería un simple "bully".
 En este contexto, es lo más cercano a un soldado ideal.
 
-Bräu, su leal mejor amigo y quién reta sus decisiones apenas Ritzen asume el liderazgo abandonado por Dinter.
+Peter Bräu, su leal mejor amigo y quien reta sus decisiones apenas Ritzen asume el liderazgo abandonado por Dinter.
 Su confusa muerte, entre accidente y suicidio, deja un Ritzen con mucho remordimiento, preguntándose qué tanta responsabilidad tenía sobre él.
 
 Klara, con quien Ritzen forma una intensa relación de lujuria que él confunde por amor eterno.
@@ -66,24 +66,18 @@ Es demostración de lo ingenuos e idílicos que somos en el amor, a tan temprana
 Su desenlace causa a Ritzen uno de los más grandes traumas del regreso a casa.
 Incluso en situaciones extremas, las emociones extremas nos pueden dejar profundas cicatrices.
 
-El mayor Baker, un soldado curioso y con tonos liberales, quien indaga las razones por las cuales "purificación" es una de las causas por las que pelea la Alemania nazi.
-Es él quien desencadena la realización de la gran confusión ideológica de Ritzen.
-Sus preguntas logran que Ritzen verbalice su real desprecio del nazismo e internalice la diferencia entre ser nazi y ser alemán.
+El mayor Baker, un oficial americano curioso y con tonos liberales, que indaga las razones por las cuales "purificación" es una de las causas por las que pelea la Alemania nazi.
+Es él quien desencadena en Ritzen la realización de su gran confusión y conflicto entre adoctrinamiento ideológico y principios personales.
+Sus preguntas logran Ritzen verbalice su real desprecio del nazismo e internalice la diferencia entre ser nazi y ser alemán.
 
 Jens, su último compañero de viaje, quien acaba recibiendo a un Ritzen endurecido, confiado en su convicción.
-Es un bis de Pistol pero en donde vemos a Ritzen actuar con autosuficiencia, al punto que incluso siendo Jens de mayor edad, es Ritzen quien lidera el camino.
+Un bis de Pistol, con quien vemos a Ritzen actuar con autosuficiencia, al punto que incluso siendo Jens de mayor edad, es Ritzen quien lidera el camino.
 Lo más interesante es que Ritzen no llega a entender si Jens es su amigo o no.
 Sí que lo son, pero lo que ocurre es que Ritzen aún se ve a sí mismo como aquel niño asustado y dependiente, mientras que sus acciones van expresando lo contrario y van atrayendo a otro tipo de personas más curtidas y maduras.
 
-El camino a casa, luego del intento fallido de entrar a Suiza, es largo y hasta más traumático que cuando Ritzen va en grupo.
-Su intento de reunión con Klara acaba en tragedia.
-Sus encuentros con los ejércitos americanos y franceses son contundentes mentalmente.
-La visita al campo de concentración y el interrogatorio del mayor Baker,
-y luego el emparejamiento con Jens y la estancia con la señora Bender.
-
-Ritzen se expone a reflexiones sobre el Holocausto.
-Gracias a la curiosidad de otros personajes, se entiende lo confuso y contraintuitivo de la "purificación de la raza".
-También se entiende la diferencia entre ser alemán y ser nazi.
+El camino a casa, el otro gran personaje.
+El duro andar entre pueblos destruidos, decepción y apatía, junto con la realidad de saberse perdedores y a la merced de invasores.
+Un largo trayecto de vuelta a casa áun más traumático que cuando iba en compañía de sus amigos.
 
 ---
 
