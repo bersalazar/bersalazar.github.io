@@ -1,19 +1,19 @@
 ---
-title: posts
+title:
 draft: false
 # Section you want to display
 section: posts
 # Pages count
-count: 5
+count: 25
 # Options: card, plain and masonry.
-style: plain
+style: card
 
-weight: 2
+weight: 1
 widget:
   handler: pages
 
   # Options: sm, md, lg and xl. Default is md.
-  width:
+  width: xl
 
   sidebar:
     # Options: left and right. Leave blank to hide.
