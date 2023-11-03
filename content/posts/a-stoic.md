@@ -1,6 +1,6 @@
 ---
 title: A stoic
-date: 2020-07-14 07:37:32 UTC+02:00
+date: 2020-07-14
 categories:
   - blog
 draft: true

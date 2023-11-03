@@ -1,6 +1,6 @@
 ---
 title: Sturdy Lad
-date: 2023-03-15 08:38:25 UTC+01:00
+date: 2023-03-15
 categories:
   - blog
 draft: false

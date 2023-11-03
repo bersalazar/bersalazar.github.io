@@ -1,11 +1,10 @@
 ---
-title: LCaracas Muerde - by Héctor Torres
+title: Caracas Muerde - by Héctor Torres
 date: 2013-07-01
 categories:
   - reviews
 draft: false
 ---
-.. category: reviews
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356209008l/17162087.jpg)
 

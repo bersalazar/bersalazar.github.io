@@ -1,6 +1,6 @@
 ---
 title: Hell Yeah or No - by Derek Sivers
-date: 2020-09-27 17:25:36 UTC+02:00
+date: 2020-09-27
 categories:
   - reviews
 draft: false

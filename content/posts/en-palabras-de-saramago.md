@@ -1,6 +1,6 @@
 ---
 title: En palabras de Saramago
-date: 2022-10-10 09:29:14 UTC+02:00
+date: 2022-10-10
 categories:
   - blog
 draft: false

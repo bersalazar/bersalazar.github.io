@@ -1,6 +1,6 @@
 ---
 title: En palabras de Eslava Galán
-date: 2020-10-03 10:06:12 UTC+02:00
+date: 2020-10-03
 categories:
   - blog
 draft: false

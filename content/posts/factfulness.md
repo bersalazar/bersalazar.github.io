@@ -1,6 +1,6 @@
 ---
 title: Factfulness - by Hans Rosling
-date: 2021-02-20 08:56:34 UTC+01:00
+date: 2021-02-20
 categories:
   - reviews
 draft: false

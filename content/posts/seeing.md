@@ -1,11 +1,10 @@
 ---
-title: LSeeing - by Pedro Saramago
+title: Seeing - by Pedro Saramago
 date: 2020-04-24
 categories:
   - reviews
 draft: false
 ---
-.. category: reviews
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442258675l/47667._SY475_.jpg)
 

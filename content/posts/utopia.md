@@ -1,6 +1,6 @@
 ---
-title: Utopia
-date: 2023-06-08 09:22:42 UTC+02:00
+title: Utopia - by Thomas More
+date: 2023-06-08
 categories:
   - reviews
 draft: false

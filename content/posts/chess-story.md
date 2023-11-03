@@ -6,11 +6,7 @@ categories:
 draft: false
 ---
 
-..figure:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924796l/59151.jpg
-   :class: thumbnail
-   :height: 500
-   :width: 330
-   :scale: 50%
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924796l/59151.jpg)
 
 I was deeply impressed by this short story's capacity to take on multiple subjects on little text.
 

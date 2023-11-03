@@ -1,6 +1,6 @@
 ---
 title: En palabras de Nerdwriter
-date: 2022-10-12 08:27:52 UTC+02:00
+date: 2022-10-12
 categories:
   - blog
 draft: false

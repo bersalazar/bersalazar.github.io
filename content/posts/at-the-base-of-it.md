@@ -1,11 +1,10 @@
 ---
-title: LAt the base of it
+title: At the base of it
 date: 2020-07-12
 categories:
   - blog
 draft: false
 ---
-.. category: blog
 
 .. image:: /images/sunset.png
 
