@@ -6,10 +6,10 @@
 > Sometimes when I was at home I would jump out of bed and try to figure out where I was.
 > I would look out the windows, see houses and trees and begin to panic.
 > I would try to find the tiller, turn away from the land.
-> Then I would wake up, standing there, and i would come to me that I wasn't on the boat.
+> Then I would wake up, standing there, and it would come to me that I wasn't on the boat.
 > This made me realize I was a lot more afraid of sailing than I admitted, and the fears I was hiding came to the surface in the dark.
 
-> But I knew, I knew. I if sailed far enough, if I didn't crash my boat against some rocks, I would put my anchor out in some foreign land.
+> But I knew, I knew. If I sailed far enough, if I didn't crash my boat against some rocks, I would put my anchor out in some foreign land.
 > I would climb a hill and meet a goatherd.
 > We would sit under a tree, drink wine and eat goat's cheese.
 > He wouldn't have heard of Chernobyl or disposable diapers, and I wouldn't tell him.
