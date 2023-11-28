@@ -1,0 +1,1529 @@
+<!DOCTYPE html>
+<html
+  lang="en"
+  dir="ltr"
+  
+><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>sinking stone</title>
+
+<meta name="generator" content="Hugo Eureka 0.9.3" />
+<link rel="stylesheet" href="/css/eureka.min.9cec6350e37e534b0338fa9a085bf06855de3b0f2dcf857e792e5e97b07ea905d4d5513db554cbc26a9c3da622bae92d.css">
+<script defer src="/js/eureka.min.fa9a6bf6d7a50bb635b4cca7d2ba5cf3dfb095ae3798773f1328f7950028b48c17d06276594e1b5f244a25a6c969a705.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload"
+  href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&amp;family=Noto&#43;Serif&#43;SC:wght@400;600;700&amp;display=swap"
+  as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/styles/base16/solarized-light.min.css"
+   media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/highlight.min.js"
+   crossorigin></script>
+  <script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/dart.min.js"
+     crossorigin></script>
+<link rel="stylesheet" href="/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css" media="print" onload="this.media='all';this.onload=null">
+
+
+<script defer type="text/javascript" src="/js/fontawesome.min.1853a524ca39729ab933ec9ed36c061ff97ab42d22bfb99eebbff3b8df0476a351eea2822c6447a461ca0fbc56183b11.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css"
+   integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ"  media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js" 
+  integrity="sha384-VQ8d8WVFw0yHhCk5E8I86oOhv48xLpnDZx5T9GogA/Y84DcCKWXDmSDfn13bzFZY"  crossorigin></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js"
+   integrity="sha384-&#43;XBljXPPiv&#43;OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR"  crossorigin></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true }
+      ],
+    });
+  });
+</script>
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/mermaid@8.14.0/dist/mermaid.min.js" 
+  integrity="sha384-atOyb0FxAgN9LyAc6PEf9BjgwLISyansgdH8/VXQH8p2o5vfrRgmGIJ2Sg22L0A0"  crossorigin></script>
+
+
+<link rel="icon" type="image/png" sizes="32x32" href="/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_32x32_fill_box_center_3.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_180x180_fill_box_center_3.png">
+
+<meta name="description"
+  content="Eureka is a elegant and powerful theme for Hugo.">
+
+
+
+<meta property="og:title" content="sinking stone" />
+<meta property="og:type" content="website" />
+
+
+<meta property="og:image" content="/images/icon.png">
+
+
+<meta property="og:url" content="/" />
+
+
+
+
+
+<meta property="og:description" content="Eureka is a elegant and powerful theme for Hugo." />
+
+
+
+
+
+<meta property="og:locale" content="en" />
+
+
+
+
+<meta property="og:site_name" content="sinking stone" />
+
+
+
+
+
+
+<meta property="og:updated_time" content="2023-11-01T00:00:00&#43;01:00" />
+
+
+
+<meta property="article:section" content="" />
+
+
+<link rel="alternate" type="application/rss+xml" href="/index.xml" title="sinking stone" />
+
+
+  <body class="flex min-h-screen flex-col">
+    <header
+      class="min-h-16 pl-scrollbar bg-secondary-bg fixed z-50 flex w-full items-center shadow-sm"
+    >
+      <div class="mx-auto w-full max-w-screen-xl"><script>
+    let storageColorScheme = localStorage.getItem("lightDarkMode")
+    if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
+        document.getElementsByTagName('html')[0].classList.add('dark')
+    }
+</script>
+<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
+    <a href="/" class="me-6 text-primary-text text-xl font-bold">sinking stone</a>
+    <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <div id="target"
+        class="hidden block md:flex md:grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
+        <div class="md:flex md:h-16 text-sm md:grow pb-4 md:pb-0 border-b md:border-b-0">
+            <a href="/posts/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">posts</a>
+            <a href="/reviews/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">reviews</a>
+            <a href="/#about" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">about</a>
+        </div>
+
+        <div class="flex">
+            <div class="relative pt-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="lightDarkMode">
+                    <i class="fas fa-adjust"></i>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='lightDarkOptions'>
+                    <span class="px-4 py-1 hover:text-eureka" name="Light">Light</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Dark">Dark</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id="is-open-mobile">
+    </div>
+
+</nav>
+<script>
+    
+    let element = document.getElementById('lightDarkMode')
+    if (storageColorScheme == null || storageColorScheme == 'Auto') {
+        document.addEventListener('DOMContentLoaded', () => {
+            window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change', switchDarkMode)
+        })
+    } else if (storageColorScheme == "Light") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'sun')
+        element.firstElementChild.classList.add('fa-sun')
+    } else if (storageColorScheme == "Dark") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'moon')
+        element.firstElementChild.classList.add('fa-moon')
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        getcolorscheme();
+        switchBurger();
+    });
+</script>
+</div>
+    </header>
+    <main class="grow pt-16">
+  
+  
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+    
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-primary-bg"
+    
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="pages"
+        class="w-full mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      
+  <h2 class=" font-bold text-3xl my-4"></h2>
+
+
+  
+  
+  <div class="overflow-hidden">
+    
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/ninos-buenos/" class="no-underline">
+    <h3 class="mt-0">Los Niños Buenos Vuelven A Casa - por Tomás García Orihuela</h3>
+  </a>
+  
+    Conozco de la Segunda Guerra Mundial en su mayoría gracias a producciones de Hollywood. Esas que mayoritariamente están enfocadas en las heróicas hazañas de soldados aliados en sus campañas Europeas y en el Pacífico. Montecasino, Normandía, las Ardenas, Guadalcanal, Okinawa, Iwo Jima, Midway, Dunkerque. Grandes y cruciales batallas, con despliegue fascinante de armamento y coraje. Junto con el Holocausto y el sufrimiento del pueblo judío, forman la base de mi conocimiento histórico.
+Quizá por falta de relatos o gracias a la globalización, últimamente he notado más relatos del lado perdedor: la Alemania nazi.
+Tomás es mi gran amigo de muchos años. Lector voraz y fanático de la historia, en especial si tiende a la geopolítica. Hablar con él es abrir una enciclopedia de hechos históricos, que sólo pueden llegar a su memoria cuando algo realmente nos apasiona. De esas pasiones que son únicas de cada quien y que a veces pasan desapercibidas.
+Desde que lo conozco, siempre ha tenido fascinación por la cultura alemana y, desde siempre, me ha hablado de su ex-jefe en Caracas, un ex-miembro de las Juventudes Hitlerianas durante la guerra.
+Dado la carga histórica del nazismo, es fácil, y sobretodo en una época menos globalizada, pensar en los alemanes con recelo y desconfianza.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2023-11-01</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/utopia/" class="no-underline">
+    <h3 class="mt-0">Utopia - by Thomas More</h3>
+  </a>
+  
+    Utopia is an idealistic book. A description of a society abiding by a set of rules that promote collectivism over individualism.
+By organizing a group of individuals into an emergent entity, the entity thrives over others and perpetuates itself across time, in a generalized state of well-being.
+The rules trump basic instincts of survival which align with individualism.
+Socialist nations, when attempted, have failed to live up to socialism’s expectations. It’s not wrong or uncommon to think of socialism as an enlightened form of government, where priority to individualism is dropped in favor of the collective. Given humans’ capacity for rationalism, it must be possible to free ourselves from the vices of individualism, live a more practical, spiritual, collective and frugal life. Right?
+History has proven otherwise. As a collective, we struggle when faced with the reality of these ideals. So far, capitalism and liberalism have provided a functioning, stable society. Not without hiccups and lessons learned.
+Utopia can be interpreted as a seed of modern socialism. As a rationalist, I find that the country of Utopia practices very interesting.
+I found some ideas from the Utopian society to be appealing. Health is considered the ultimate pleasure. Without it, all other pleasures become moot.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2023-06-08</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/sturdy-lad/" class="no-underline">
+    <h3 class="mt-0">Sturdy Lad</h3>
+  </a>
+  
+    This is an extract from Emerson’s Self-Reliance:
+If our young men miscarry in their first enterprises, they lose all heart. If the young merchant fails, men say he is ruined. If the finest genius studies at one of our colleges, and is not installed in an office within one year afterwards in the cities or suburbs of Boston or New York, it seems to his friends and to himself that he is right in being disheartened, and in complaining the rest of his life. A sturdy lad from New Hampshire or Vermont, who in turn tries all the professions, who teams it, farms it, peddles, keeps a school, preaches, edits a newspaper, goes to Congress, buys a township, and so forth, in successive years, and always, like a cat, falls on his feet, is worth a hundred of these city dolls. He walks abreast with his days, and feels no shame in not ‘studying a profession,’ for he does not postpone his life, but lives already. He has not one chance, but a hundred chances. Let a Stoic open the resources of man, and tell men they are not leaning willows, but can and must detach themselves; that with the exercise of self-trust, new powers shall appear; that a man is the word made flesh, born to shed healing to the nations, that he should be ashamed of our compassion, and that the moment he acts from himself, tossing the laws, the books, idolatries, and customs out of the window, we pity him no more, but thank and revere him, – and that teacher shall restore the life of man to splendor, and make his name dear to all history.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2023-03-15</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/metaphors-we-live-by/" class="no-underline">
+    <h3 class="mt-0">Metaphors We Live By - by George Lakoff &amp; Mark Johnson</h3>
+  </a>
+  
+    This book is about realizing metaphors as fundamental to perception of the world around us. Like seeing, hearing or tasting, they allow us to understand the truth of our experiences, whether “external” (as in, the physical realm) or “internal” (ideas, thoughts and feelings). They’re a representation of the experiences we live: past, present or potential. They’re information in packages. The combination of both learned language and metaphors, aside from providing perception, drive a lot of our actions.
+The deeper this book goes into defining, decomposing and categorizing metaphors, the more it mingles in philosophy. Our own personal philosophy is defined by a heavy use of metaphors. This likely happens unconsciously for most. It is also influenced by the culture we live in, which is also defined, in large parts, by metaphors.
+Since we’re limited in the amount of literal definitions for concepts, we turn to metaphors to expand our understanding. They’re easier to remember, friendlier as components that compose concepts and are instantly relatable. They’re language’s representation of the human mind’s capacity to interconnect concepts. Gateways into ideas and interconnection of thoughts that flow out of our mind. This paragraph was full of metaphors. It’s fascinating.
+Objectivism is not infallible for understanding the world (both physical and non-physical).
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2023-03-12</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/en-palabras-de-nerdwriter/" class="no-underline">
+    <h3 class="mt-0">En palabras de Nerdwriter</h3>
+  </a>
+  
+    Not all content consumption is passive. Good books, films, journalism, videos, podcasts, etc., encourage you to think critically. When you’ve finished a book or an album, there should be a period of time for you to reflect on what you’ve experienced. You should have a break to let your mind wander, to examine your response, to write your thoughts down, to discuss them with others. That’s one reason I love seeing movies at the theater. We talk about preserving the communal experience of watching movies, but what about when the movie ends, that ritual of slowly getting up, emerging into the lobby, and waiting until someone finally says, “So what did you think?” The conversation that follows, in the car rider home or over drinks at a bar, is what makes the passive viewing experience active.
+from Escape Into Meaning, by Evan Puschak
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2022-10-12</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/en-palabras-de-saramago/" class="no-underline">
+    <h3 class="mt-0">En palabras de Saramago</h3>
+  </a>
+  
+    Aquí va un extracto de El Evangelio Según Jesucristo, de José Saramago:
+No obstante, la lógica no lo es todo en la vida, y nada raro es que, justamente, lo previsible, que lo es por ser el remate más plausible de una secuencia, o porque, simplemente, ya había sido anunciado antes, no es raro, decíamos, que lo previsible, llevado por razones que sólo él conoce, acabe por elegir, para revelarse al fin, una conclusión, por así decir, aberrante, bien en lo referente al lugar, bien lo que a la circunstancia se refiere.
+El pasaje sirve como mecanismo de exposición. Se describe la razón por la que el protagonista tomó cierta acción: Jesús decide abandonar a El Pastor (Satán) después de años como su ayudante.
+Es también un perfecto ejemplo de la prosa de Saramago. En su estilo, una reflexión está enterrada en texto que parece lleno de obstáculos. Una sopa de trama y exposición.
+Si se ignoran los conectores y las disculpas, lo que el autor quiere expresar es: “La lógica no lo es todo. Puede suceder que alguna circunstancia o lugar, por más previsible que sea, acabe por elegir una conclusión fuera de lo normal”
+¿Está justificada la verbosidad del autor?
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2022-10-10</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/enlightenment-now/" class="no-underline">
+    <h3 class="mt-0">Enlightenment Now - by Steven Pinker</h3>
+  </a>
+  
+    This book was a lot of fun to read. It helped confirm my convictions around science and rational optimism.
+Science’s mission towards representation of the natural world pushes out any reliance on supernatural beliefs for good explanations.
+The Enlightenment, as a consequence of science’s philosophy, set the bases for human progress in a way no other form of collective thought had done before.
+What’s the Enlightenment’s biggest gifts? The promotion of individualism and liberty of thought, which allow ideas to mature in groups. Large-scale problems are solved by rational ideas that spring up from these, not from those that tap into the emotional, like nationalism and tribalism. We take such liberties for granted and rarely acknowledge the historical efforts that have provided them.
+This book put words to notions I have around factless, rhetoric-fueled ideologies, organizations and rituals. It’s mind-blowing how much information is collated, referenced and structured into flowy, fact-based explanations around the multiple subjects it touches.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2022-10-09</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/writing-is-conscious/" class="no-underline">
+    <h3 class="mt-0">Writing is conscious</h3>
+  </a>
+  
+    Writing is not, and can never be, something natural.
+Speaking is natural. We do it unconsciously, most of the times.
+Words flow out with little reflection.
+It’s an exposure of habits within us.
+Writing is not natural.
+There’s a sense of watching yourself think while you’re doing it.
+The need to structure thoughts into the finger’s mechanical motions is separate from spoken sentences.
+A self-consciousness that interrupts the movement of your thoughts.
+Writing that’s meant to mimic the flow of spoken language is composed of short and rhythmic sentences.
+Very few multi syllabic words.
+It means the writer is aware of the reader’s attention and understanding.
+More than avoiding complex sentences and technical words, what captivates readers is rhythm.
+The writer’s capacity to inject cadence and grant breathing room.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2022-07-10</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/thinking-fast-and-slow/" class="no-underline">
+    <h3 class="mt-0">Thinking, Fast and Slow - by Daniel Kahneman</h3>
+  </a>
+  
+    Another breeding ground for novel-thinking, self-assesment and of how we think about social behaviour.
+Concepts are explained from the perspective of behavioural economics and psychology. Some can be found, in different words, in philosophy.
+It simply enlarges the significance of both areas of study. Individual and social behaviour is evaluated from two ends producing similar conclusions.
+Behaviour is a product of biology and environment. The mind is a series of electrical impulses that live in the brain and are ruled by physical laws. There’s nothing supernatural about it.
+Its study from a social science perspective grants scientific method to questions that have been asked by philosophy. “What is the meaning of life?” “What is happiness?” These are historically debated by philosophers. To behavioural economists, they’re measurable experiments.
+Two selves, the experiencing and the remembering, shape the perception of happiness. They expose how complicated it is to reach a quick, objective answer.
+Flow state, when seen as the engine of happiness, is a representation of the experiencing self. The more our focus lives in it, the better we feel about anything.
+This is not what usually happens to us. We struggle to focus on the experiencing self and our focus is pushed by genetics and evolution towards the remembering self.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2022-01-29</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/an-ignored-burden/" class="no-underline">
+    <h3 class="mt-0">An ignored burden</h3>
+  </a>
+  
+    Thoughts dwindled in the unsaid.
+On things I could enable that would help coping with the fight: exotic places, experiences.
+I thought of the futility of cell-killing chemicals.
+Those that repair the broken bridge ahead with wood from next one.
+I thought of depleting emergency funds. Of justified lies for the promise of expense coverage.
+I even thought of rotten cells dying by glucose starvation.
+Solutions are task forces, navigating in the vast ocean of the mind.
+Entertainment, the clouds above them.
+They are cleared by warm water and solitude, sadly, reactive. Void of forecast or planning.
+Those which would have been granted by negative visualization.
+Instead, apathy and a twisted rhetoric is the reality. An ignored burden.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2022-01-28</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/skull-sized-kingdom/" class="no-underline">
+    <h3 class="mt-0">Skull-sized kingdom</h3>
+  </a>
+  
+    We’re granted the freedom to become lords of the realm of our thoughts.
+Lords of our skull-sized kingdom.
+There are many types of freedom.
+Ones focus on winning, achieving and displaying.
+Others focus on us being the center of the universe.
+One where there’s no experience, where we’re not the protagonist.
+The truly important kind is the one which involves attention.
+Awareness, discipline, caring for others. Thinking.
+Thinking demands the ability to control focus.
+The ability to learn. The ability to master thoughts.
+To exercise control over how and what to think.
+The mind is an excellent servant but a terrible master.
+A lifelong objective is to master our thoughts.
+To avoid the ramblings of the inner voices that plague us.
+Voices concerned with the future and past.
+Voices that wander around in the impressions that others have of us.
+They’re blind to what’s present, to what exists now.
+They’re fish oblivious to the water they’re swimming in.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2022-01-05</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/how-to-live/" class="no-underline">
+    <h3 class="mt-0">How To Live - by Derek Sivers</h3>
+  </a>
+  
+    Derek Sivers provides 27 conflicting answers put in gentile, concise words but are packed with philosophy, consciousness and meaning.
+His words function as an elegant boxer, well-trained and efficient, throwing precise jabs at an opponent. The opponent being our anxious, doubtful or prejudiced thoughts, wondering if any of life’s paths are the correct one.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2021-07-04</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/vessel/" class="no-underline">
+    <h3 class="mt-0">Vessel</h3>
+  </a>
+  
+    We traverse the world in a vessel.
+The vessel is home and has multiple windows.
+Each window, a view of the world.
+Each, a unique process and experience.
+The windows are many, but we control which one is used.
+No window is a wrong choice.
+We’re composers of a symphony. Conductors of an orchestra.
+We’re free to choose from an assortment of instruments.
+Each with its unique cadence, flavour, texture.
+Each entering and exiting the symphony at a moment’s request.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2021-07-04</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/collateral/" class="no-underline">
+    <h3 class="mt-0">Collateral</h3>
+  </a>
+  
+    The rock is emotionless.
+It’s out there, existing. It doesn’t change because of our feelings or desires.
+Like the floor beneath the dancer, a blacksmith’s hammer or thermodynamics laws.
+It won’t change its shape or respond to complaints. It won’t flinch.
+The changing entities are within our bodies: fingers, shoulders, tendons.
+With enough repetitions, they become stronger.
+Mixed with patience, goals are achievable. That’s a good compromise but it’s not the best one.
+The truly fulfilling skill comes as a realization at a given point in the path of habit.
+As more of a “Oh OK, I can do this” rather than “Hooray, I just did this.”
+The best kind of gratification is a realization in the middle of a recurring process.
+A second-hand effect. A collateral of enjoying an acquired habit.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2021-03-22</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/the-crux/" class="no-underline">
+    <h3 class="mt-0">The Crux - by Oswaldo Zuniga</h3>
+  </a>
+  
+    When starting out learning a new skill, referencing professionals and people at the top of the game isn’t the most efficient way to learn.
+The skills are so advanced it’s hard to find techniques than can be practiced which are appropriate to the current level. Knowing how to bridge the gap between beginner and expert is a skill of its own. Oswaldo Zuniaga’s The Crux is a book that’s just about bridging this gap.
+Watching professionals at work is enough for entertainment but should be considered with care as a resource for learning. If so, it can be easy to fall quickly into frustration due to the relatively slow learning and skill-acquiring process.
+At this stage in my rock climbing journey, I get pretty much the same experience and learning than non-climbers from watching an Adam Ondra video sending Silence or Alex Honnold’s free soloing El Capitan. They’re such highly technical climbs and the mental challenge so large, that it’s hard for me to take notice of something practical that would make me improve. That’s where guys like Oswaldo come in. They provide the substance that lowers the barrier of entry for amateurs and enthusiasts like me, who do this as a non-professional activity.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2021-03-22</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/factfulness/" class="no-underline">
+    <h3 class="mt-0">Factfulness - by Hans Rosling</h3>
+  </a>
+  
+    This book makes a very efficient case that subjectiveness is not only bound to individuals but is also present in our social consciousness. It distorts our world-view on the important aspects that drive progress, and more immediately, help us understand problems.
+The way we deal with world-wide problems through unsupported claims stems from our primitive brain and tribal thinking. It’s natural for our species. Even if claims are highly technical and based on the rational, if facts are incorrect, we’ll be going down the wrong path. Maps are a great piece of technology but even if we firmly believe in the practical uses of maps, if the map we’re following is faulty, we’d be going the wrong way.
+What I enjoyed most of this book is its structure. It’s creative for framing the problem but also very efficient on its arguments and facts around them. Books that dwell on technicalities and are meant for a general audience —in this case economics, data interpretation and statistics— should take reference from this one. There’s no absolute need to reveal the technicals behind some arguments. It would make the book diverge from its intention, potentially boring or scaring away readers.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2021-02-20</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/the-old-man-and-the-sea/" class="no-underline">
+    <h3 class="mt-0">The Old Man And The Sea - by Ernest Hemingway</h3>
+  </a>
+  
+    This story can be interpreted in two ways: a proud and courageous man in the pursuit of an achievement to the very end, defeating odds with discipline and perseverance in spite of risks or, a stubborn and foolish man, filled with wishful thinking, in a fight against his own ego, sense of purpose and external recognition.
+I lean towards the latter. An old fisherman, haunted by feelings of an unfulfilling life, who goes out to sea on his chore and ends up entering a search for the ultimate rush, a grand prize that would earn him external recognition, set probably by his cultural context but ultimately by himself, in a battle against undefeatable nature.
+Regarding writing style, I found beauty in how words flow through the old man’s actions and his thoughts. I found myself fully immersed in the character. I empathized with the constant battle between two sides: animal and rational. In this case, it’s the animal side that pulls the old man to the path of survival. The right path. It’s the side that’s constantly reminding him: “you’re tired”, “you’re losing energy”, “go back”, “leave the fish”, “you will die.” On the other side, and which differentiates us from animals, the disregard for survival that can only come from the human capacity to “rationalize” objectives, even if fulfilling them means death.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2021-01-29</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/flow/" class="no-underline">
+    <h3 class="mt-0">Flow - by Mihaly Csikszentmihalyi</h3>
+  </a>
+  
+    I blindly clicked a 5-star rating faster than any other book. It’s the product of an academic that doesn’t feel heavily technical at all. While very well researched and written, my rating mostly reflects the most comforting and pleasant feeling of having read the right book at the right time. Almost everything depicted in it reflects my current frame of mind.
+The key takeaway is the argument that happiness is achieved by learning to enter flow in any activity we do, whether the activity is part of one’s goals, something mundane or something generally considered boring. It makes emphasis on the fact that entering flow at will —or achieving order to consciousness— is a skill, hence it’s something that can be practiced and improved, making it a habit. It goes through many examples of activities that inherently achieve it: yoga, rock climbing, creating art. However, the key is that flow is not restricted to these type of activities but can be applied to everything else considered less exciting or creative: cleaning dishes, taking out garbage, spending time in conversation, with family.
+One phrase, very concise, sums up my learnings from this book:
+The concentration of the flow experience —together with clear goals and immediate feedback— provides order to consciousness, inducing the enjoyable condition of psychic negentropy.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2020-12-30</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/art-is-not-a-democracy/" class="no-underline">
+    <h3 class="mt-0">Art is not a democracy</h3>
+  </a>
+  
+    I saw an interview with George R.R. Martin and learned how art should not be a democracy. He was asked if fans influence his writing at any point. He replied “not so much” but the subtext was “absolutely not.”
+He explained how it’s frustrating for an artist in Hollywood –a writer, in this case– when audiovisual arts are treated as a product. Scripts need market tests and adaptation so it has traction within a certain audience and market. An artist is not free in this context. It’s impossible to express artistic intuition when external factors are constantly routing your decisions or your finalized work.
+It’s one of the reasons I’ve stopped trusting awards for any form of art. Their intention may be to project artistry but suffer the consequence of marketing and a profit-driven mindset. Why are these awards given out yearly? Why is an acting category split in gender while a writing or directing category is not? When sold as a product, a piece of art’s quality needs some form of measurement so the public’s uncertainty of invested time and money is predictable. Awards provide this measurement.
+However, in their pure artistic intention, some films, recordings, paintings and books do not become relevant until they’ve passed the test of time; until they are digested individually and culturally after years.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2020-10-16</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/at-one-end-of-the-spectrum/" class="no-underline">
+    <h3 class="mt-0">At one end of the spectrum</h3>
+  </a>
+  
+    I was recently grazing through a Youtube’s video comments section and got caught by one listing a range of emotions displayed in the video. The list is: brokenness, wishful, regret, shattered, demand, anger, hope, reality, disbelief, denial, rage, sadness and emotionless.
+I like this list. It’s a sum of emotions that I’ve learned are controllable, expectable and manageable when following stoic principles and practices. They are one extreme of the emotional spectrum. The other end is related to feelings such as euphoria, pleasure or involve activities such as daydreaming, or hoping. Stoics aim at the middle. If we practice negative visualization enough we can expect to rarely be impacted by such emotions. Their traits have already been experienced.
+In particular, I think much less of the act of hoping. The blind hope we’re taught in childhood, by culture or by movies. A hidden lesson of non-control over life. An opium to soothe an incapacity for action and resolve. An antagonist of fortitude and progress. If seen from a certain perspective, it’s a lie to the mind. A habit of hoping encourages the expectation of resolve from external entities. It assigns solutions to, most likely, uncontrollable sources. Hope sabotages the capacity for creative solutions, for finding alternative paths.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2020-10-07</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/en-palabras-de-eslava-galan/" class="no-underline">
+    <h3 class="mt-0">En palabras de Eslava Galán</h3>
+  </a>
+  
+    Esto es el parafraseo de algunos pasajes escritos por Juan Eslava Galán en su libro “Historia de España contada para escépticos.”
+No digo que todos los políticos sean corruptos pero sí todos los partidos tradicionales: PP, PSOE, Ciudadanos, Podemos. Y el político que quiere medrar en ellos fatalmente se acaba convirtiendo en corrupto. Sea por comisión: metiendo la mano en la caja para el partido o en provecho propio, o sea por omisión: cuando conoce prácticas fraudulentas en sus compañeros y no las denuncia.
+De este mismo pecado de omisión no está limpio el ciudadano que sigue votando a políticos imputados e incluso condenados. En parte del libro se habla del “Antiguo Régimen”, donde la aristocracia explotaba al pueblo. Ahora el pueblo es la clase media y la nueva aristocracia son los partidos corruptos y el funcionariado improductivo que vive los pechos del Estado. El aperreado pueblo, carente de formación política, pero abrumado de impuestos, se desespera y se echa en los brazos de demagogos utópicos (como los de Podemos), quizá no tanto por ese paraíso que prometen como por vengarse de los profesionales de la política a los que consideran una panda de aprovechados, cuando no de corruptos.
+Lo malo (y lo históricamente normal) es que los que llegan para terminar con la casta se convertirán en casta ellos mismos en cuanto se les dé la ocasión.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2020-10-03</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/hell-yeah-or-no/" class="no-underline">
+    <h3 class="mt-0">Hell Yeah or No - by Derek Sivers</h3>
+  </a>
+  
+    Like his other recent book ‘Your Music and People’, it’s a compilation of Derek’s blog posts loosely related to the book’s title. Very inspiring droplets, with each chapter standing on its own. Works very well for picking up sporadically, re-reading one or a few from time to time and getting a boost from quick, exciting and potentially life-changing lessons.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2020-09-27</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/essentialism/" class="no-underline">
+    <h3 class="mt-0">Essentialism - by Greg McKeown</h3>
+  </a>
+  
+    Essentialism, or how to discern the vital few from the trivial many. This book is a worthy guide to choosing the right actions, removing obstacles and making execution effortless. In a wider context of books about de-cluttering our life and finding the core intent of living a fulfilling life, this one has served me as a true compilation of the bigger message.
+It’s practical, full of quotes from other works and real-life situations where either a problem or a solution via essentialism is applied. It feels like a light read —because it’s so well redacted and edited— but it has a depth and very relatable sense to it.
+Some of my key takeaways:
+Routines, once in place, are the gifts that keep on giving. Focus on small wins and repetition, rather than the objective. Make peace with the fact that saying ’no’ means trading popularity for respect. When people make their problem our problem, we’re not helping, we’re just enabling. Routinely create space to contemplate and remove the habit of always keeping the mind entertained. This book is definitely a foundational brick for building a house of discipline, fortitude and fulfillment.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2020-09-20</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/watching-the-english/" class="no-underline">
+    <h3 class="mt-0">Watching The English - by Kate Fox</h3>
+  </a>
+  
+    After having worked day-to-day, for a few years now with them, I found this book’s arguments about the English to be very true and relatable.
+As I grow older I’ve become more practical in behavior, thought and speak, and after reading this book I realize this collides with the author’s description of English social patterns. In them, there’s a constant tendency towards indirectness, humor, self-deprecation, appearance of modesty and, moreover, moderation when arguing, greeting or expressing themselves.
+This makes the real intention and meaning behind the words spoken to come from a complex interpretation of voice tonality, context and body language, along with the actual spoken word. This applies for many cultures, yes, but in my opinion, it’s far more present in this one.
+As the author defines it, it’s due to a ‘social dis-ease’. Culturally, the English don’t seem to be comfortable in social situations and have historically developed a set of mechanisms to constantly ‘save-face’ in social interactions. It’s a culture of ‘coping with’, where appearances of positivism or eagerness for activities are rare. Attitudes seem driven by the feeling of the world being a nuisance that has to be coped with. These mechanisms tilt the emotional bar towards a perception of moderation in everything.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2020-09-08</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/posts/sum/" class="no-underline">
+    <h3 class="mt-0">Sum - by David Eagleman</h3>
+  </a>
+  
+    I found out about this book thanks to Derek Sivers’ blog. It’s his highest rated book, and was really interested in it after reading its premise.
+It’s in a short story format, each of them with a version explaining what happens after we die. They’re unusual, creative and packed with analogies to philosophical thought or existentialist proposals that don’t necessarily change or get resolved after we die.
+God is often humanised, heaven is often treated as a mundane society filled with similar vices that we endure during life and the afterlife is sometimes a multi-dimensional, uncontrollable and even insignificant existence.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2020-07-26</span
+    >
+  </div>
+
+  
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+    <div class="px-8 pt-2 hover:text-eureka">
+      
+  <a href="/posts/" class="font-semibold">Read More</a>
+  <i class='fas fa-caret-right ms-1'></i>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-cover"
+    style="background-image: url(/images/hero-left.jpg);"
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="blank"
+        class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      
+<div style="text-align:center">
+  <p></p>
+</div>
+
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    </main>
+    <footer class="pl-scrollbar">
+      <div class="mx-auto w-full max-w-screen-xl"><div class="text-center p-6 pin-b">
+    <p class="text-sm text-tertiary-text">&copy; 2023 <a href="https://sinkingstone.com/">sinking stone</a>
+  </p>
+</div>
+</div>
+    </footer>
+  </body>
+</html>
